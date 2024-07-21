@@ -5,7 +5,7 @@
     "username": "janedoe",
     "email": "jane.doe@example.com",
     "bio": "Software engineer with a passion for open-source projects and machine learning.",
-    "website": "",
+    "website": "https://raw.githubusercontent.com/lignah/lignah/main/manifest.json",
     "location": {
       "city": "San Francisco",
       "state": "CA",
