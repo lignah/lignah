@@ -9,3 +9,6 @@
 - simple notes on serverless architecture
 ### [- malware trend](https://lignah.me/malware_trend)
 - recent malware files visualization
+### [- ransomware](https://youtu.be/SBxirYCC0t0)
+[![](/​/xxxsomware.png)](https://youtu.be/SBxirYCC0t0)
+**click the link or image to play the video**
