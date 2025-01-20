@@ -1,4 +1,4 @@
-> ## ${\color{green}{project link}}$
+> # ${\color{green}{project link}}$
 
 <!-- [![](/​/1.png)](https://lignah.me/web_assembly) -->
 ### [- calculator](https://lignah.me/web_assembly)
@@ -6,6 +6,6 @@
 ### [- game](https://lignah.me/game-cactus_jumping)
 - chrome dino game clone
 ### [- todo](https://lignah.me/todo)
-- serverless simple memo 
+- simple notes on serverless architecture
 ### [- malware trend](https://lignah.me/malware_trend)
 - recent malware files visualization
