@@ -1,4 +1,4 @@
-> # ${\color{green}{project link}}$
+> # project link
 
 <!-- [![](/​/1.png)](https://lignah.me/web_assembly) -->
 ### [- calculator](https://lignah.me/web_assembly)
