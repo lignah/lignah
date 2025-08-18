@@ -1,21 +1,12 @@
-```
- _     _                 _     
-| |   (_) __ _ _ __   __ | |__  
-| |   | |/ _` | '_ \ / _`| '_ \ 
-| |___| | (_| | | | | (_|| | | |
-|_____|_|\__, |_| |_|\__,|_| |_|
-         |___/                  
-```
-
-## 👨‍💻 About Me
+## About Me
 
 Security-focused developer with strong interest in web technologies. Passionate about building secure web systems and vulnerability analysis.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ```
-Tech-Stack/
-├── 💪 Strong/
+Skills/
+├── Strong/
 │   ├── Languages/
 │   │   ├── C
 │   │   ├── JavaScript (ES6+)
@@ -32,7 +23,7 @@ Tech-Stack/
 │       ├── MySQL
 │       └── MongoDB
 │
-├── 🧠 Knowledgeable/
+├── Knowledgeable/
 │   ├── Languages/
 │   │   ├── C++
 │   │   ├── Python
@@ -53,7 +44,7 @@ Tech-Stack/
 │       ├── AWS
 │       └── Azure
 │
-└── 🔍 Security Tools/
+└── Security Tools/
     ├── Disassemblers & Debuggers/
     │   ├── IDA
     │   ├── Ollydbg
@@ -64,7 +55,7 @@ Tech-Stack/
         └── Burp Suite
 ```
 
-## 🛡️ Focus Areas
+## Focus Areas
 
 - Web application security analysis
 - Backend system architecture
@@ -72,10 +63,11 @@ Tech-Stack/
 - System monitoring & log analysis
 - Automation tools development
 
-## ⚡ Projects
+## Projects
 
 Currently developing tools for easy merging of .m3u8 text files which function similarly to pointers in C
 
-## 📫 Contact
+## Contact
 
 Feel free to reach out for questions or collaboration!
+lignah1@icloud.com
