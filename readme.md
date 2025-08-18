@@ -1,8 +1,8 @@
 ## About Me
 
-Security-focused developer with strong interest in web technologies. Passionate about building secure web systems and vulnerability analysis.
+Security-focused developer in web and system. Devoted to building secure web systems and vulnerability analysis.
 
-## Tech Stack
+## SKills
 
 ```
 Skills/
