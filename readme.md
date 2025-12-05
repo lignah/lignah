@@ -1,73 +1,43 @@
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=blur&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=&fontSize=40"/>
 
-Security-focused developer in web and system. Devoted to building secure web systems and vulnerability analysis.
 
-## SKills
+### SKills
+> language
+<p>
+    <!-- https://shields.io/badges -->
+    <!-- <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/C-black?style=flat-square"/>
+    <img src="https://img.shields.io/badge/assembly-black?style=flat-square"/>
+    <img src="https://img.shields.io/badge/java-black?style=flat-square"/>
+    <img src="https://img.shields.io/badge/javacript-black?style=flat-square"/>
+    <img src="https://img.shields.io/badge/typescript-black?style=flat-square"/>
+    <img src="https://img.shields.io/badge/python-black?style=flat"/>
+    <img src="https://img.shields.io/badge/rust-black?style=flat-square"/>
+    <img src="https://img.shields.io/badge/sql-black?style=flat-square"/>
+    <img src="https://img.shields.io/badge/nosql-black?style=flat-square"/>
+</p>
 
-```
-Skills/
-├── Strong/
-│   ├── Languages/
-│   │   ├── C
-│   │   ├── JavaScript (ES6+)
-│   │   └── TypeScript
-│   ├── Frontend/
-│   │   └── React
-│   ├── Backend/
-│   │   ├── Node.js
-│   │   ├── Puppeteer
-│   │   └── Kafka
-│   ├── Infrastructure/
-│   │   └── Docker
-│   └── Databases/
-│       ├── MySQL
-│       └── MongoDB
-│
-├── Knowledgeable/
-│   ├── Languages/
-│   │   ├── C++
-│   │   ├── Python
-│   │   ├── Java
-│   │   ├── PHP
-│   │   ├── Rust
-│   │   ├── Assembly
-│   │   └── WebAssembly
-│   ├── Backend/
-│   │   ├── SpringBoot
-│   │   └── JPA
-│   ├── DevOps/
-│   │   ├── Elastic Search
-│   │   ├── Logstash
-│   │   ├── Kibana
-│   │   └── Ngrok
-│   └── Cloud/
-│       ├── AWS
-│       └── Azure
-│
-└── Security Tools/
-    ├── Disassemblers & Debuggers/
-    │   ├── IDA
-    │   ├── Ollydbg
-    │   ├── x64dbg
-    │   └── WinDbg
-    └── Network & Web/
-        ├── WireShark
-        └── Burp Suite
-```
+> framework
+<p>
+    <img src="https://img.shields.io/badge/react-gray?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/nodejs-gray?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/spring boot-gray?style=flat-square&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/django-gray?style=flat-square&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kafka-gray?style=flat-square&logo=apachekafka&logoColor=white"/>
+    <img src="https://img.shields.io/badge/docker-gray?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/elastic search-gray?style=flat-square&logo=elastic&logoColor=white"/>
+    <img src="https://img.shields.io/badge/logstash-gray?style=flat-square&logo=logstash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kibana-gray?style=flat-square&logo=kibana&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ngrok-gray?style=flat-square&logo=ngrok&logoColor=white"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/burpsuite-white?style=flat-square&logo=burpsuite&logoColor=black"/>
+    <img src="https://img.shields.io/badge/wireshark-white?style=flat-square&logo=wireshark&logoColor=black"/>
+    <img src="https://img.shields.io/badge/IDA-white?style=flat-square"/>
+    <img src="https://img.shields.io/badge/x64dbg-white?style=flat-square"/>
+    <img src="https://img.shields.io/badge/windbg-white?style=flat-square"/>
+</p>
 
-## Focus Areas
+### Contact
 
-- Web application security analysis
-- Backend system architecture
-- Reverse engineering & binary analysis
-- System monitoring & log analysis
-- Automation tools development
-
-## Projects
-
-Currently developing tools for easy merging of .m3u8 text files which function similarly to pointers in C
-
-## Contact
-
-Feel free to reach out for questions or collaboration!
-lignah1@icloud.com
+<img src="https://img.shields.io/badge/lignah1@icloud-black?style=flat&logo=icloud&logoColor=white"/>
