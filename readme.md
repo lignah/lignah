@@ -4,11 +4,9 @@
 ### SKills
 > language
 
-![](https://img.shields.io/badge/C-black?style=flat-square)
 <p>
     <!-- https://shields.io/badges -->
-    <!-- <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white"/> -->
-    <img style="pointer-events: none;" src="https://img.shields.io/badge/C-black?style=flat-square"/>
+    <img src="https://img.shields.io/badge/C-black?style=flat-square"/>
     <img src="https://img.shields.io/badge/assembly-black?style=flat-square"/>
     <img src="https://img.shields.io/badge/java-black?style=flat-square"/>
     <img src="https://img.shields.io/badge/javacript-black?style=flat-square"/>
@@ -20,6 +18,7 @@
 </p>
 
 > framework
+
 <p>
     <img src="https://img.shields.io/badge/react-gray?style=flat-square&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/nodejs-gray?style=flat-square&logo=nodedotjs&logoColor=white"/>
