@@ -6,7 +6,7 @@
 <p>
     <!-- https://shields.io/badges -->
     <!-- <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white"/> -->
-    <img src="https://img.shields.io/badge/C-black?style=flat-square"/>
+    <img disabled src="https://img.shields.io/badge/C-black?style=flat-square"/>
     <img src="https://img.shields.io/badge/assembly-black?style=flat-square"/>
     <img src="https://img.shields.io/badge/java-black?style=flat-square"/>
     <img src="https://img.shields.io/badge/javacript-black?style=flat-square"/>
