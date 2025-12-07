@@ -2,7 +2,7 @@
 
 
 ### SKills
-> language
+language
 
 <p>
     <!-- https://shields.io/badges -->
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/nosql-black?style=flat-square"/>
 </p>
 
-> framework
+framework
 
 <p>
     <img src="https://img.shields.io/badge/react-gray?style=flat-square&logo=react&logoColor=white"/>
@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/x64dbg-white?style=flat-square"/>
     <img src="https://img.shields.io/badge/windbg-white?style=flat-square"/>
 </p>
+​
 
 ### Contact
 
