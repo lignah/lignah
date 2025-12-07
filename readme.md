@@ -5,20 +5,21 @@
 #### language
 
 <span>
-<img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=bitwig&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=bitwig&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 </span>
-
-<img src="https://img.shields.io/badge/Java-3A75B0?style=flat-square&logo=coffeescript&logoColor=F29111"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
+<span>
+    <img src="https://img.shields.io/badge/Java-3A75B0?style=flat-square&logo=coffeescript&logoColor=F29111"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</span>
 
 #### framework​
 
