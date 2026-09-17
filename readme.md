@@ -41,7 +41,7 @@
 #### analysis
 
 
-<picture draggable="false">
+<picture>
     <img src="https://img.shields.io/badge/burpsuite-677091?style=flat-square&logo=burpsuite&logoColor=black"/>
     <img src="https://img.shields.io/badge/wireshark-677091?style=flat-square&logo=wireshark&logoColor=black"/>
     <img src="https://img.shields.io/badge/IDA-677091?style=flat-square"/>
@@ -50,7 +50,7 @@
 </picture>
 
 
-​<div align="center">
+​<div align="center" draggable="false">
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lignah/lignah/refs/heads/main/%E2%80%8B/.svg/snake-dark.svg" />
