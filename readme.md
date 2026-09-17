@@ -40,22 +40,22 @@
 
 #### analysis
 
-<div>
-    <picture>
+
+<picture draggable="false">
     <img src="https://img.shields.io/badge/burpsuite-677091?style=flat-square&logo=burpsuite&logoColor=black"/>
     <img src="https://img.shields.io/badge/wireshark-677091?style=flat-square&logo=wireshark&logoColor=black"/>
     <img src="https://img.shields.io/badge/IDA-677091?style=flat-square"/>
     <img src="https://img.shields.io/badge/x64dbg-677091?style=flat-square"/>
     <img src="https://img.shields.io/badge/windbg-677091?style=flat-square"/>
-    </picture>
-</div>
+</picture>
+
 
 ​<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lignah/lignah/refs/heads/main/%E2%80%8B/.svg/snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lignah/lignah/refs/heads/main/%E2%80%8B/.svg/snake-light.svg" />
+   <img src="https://raw.githubusercontent.com/lignah/lignah/refs/heads/main/%E2%80%8B/.svg/snake-light.svg" />
 </picture>
 
 </div>
